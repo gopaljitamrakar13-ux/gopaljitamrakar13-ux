@@ -1,5 +1,5 @@
 #  About Me:
-   I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world projects for my portfolio  <br>- DSA<br><br> I’m looking to collaborate on  <br>- Web development projects (Frontend + Backend)  <br>- Open source beginner-friendly projects  <br><br> I’m currently learning  <br>- React  <br>- Backend development (Spring boot)  <br> <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into real working applications 🚀
+   I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world projects for my portfolio  <br>- DSA<br><br> I’m looking to collaborate on  <br>- Web development projects (Frontend + Backend)  <br>- Open source beginner-friendly projects  <br><br> I’m currently learning <br>- Backend development (Spring boot)  <br> <br><br>⚡ Fun fact  <br>- I enjoy turning ideas into real working applications 🚀
 
 
 ## 🌐 Socials:
